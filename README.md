@@ -52,7 +52,6 @@ DEVELOPED BY Mahir Hussain
 <hr>
 ***** LEAVE A COMMENT IF YOU LOVE MY WORK *****
 
-<hr>
-***** PLS FORK TNIS PROJECT FOR MORE PROJECT  *****
+
 
 </footer>
